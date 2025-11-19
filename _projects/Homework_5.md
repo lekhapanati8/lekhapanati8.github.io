@@ -21,6 +21,8 @@ To build the plot, I extracted the year from the ufosDS date column and filtered
 
 Even without interactivity, this line chart is a useful, clear summary of long-term UFO reporting trends.
 
+<br>
+
 <vegachart schema-url="{{ site.baseurl }}/assets/json/bar.json" style="width: 100%"></vegachart>
 
 This plot displays the number of UFO sightings in each US state for a single selected year. The purpose is to see how the geographic distribution of sightings has changed over time. I chose to configure a bar chart as the visualization showcases counts across discrete categories (states). 
@@ -31,24 +33,12 @@ The interactivity in the bar chart comes from a year slider. This slider updates
 
 ## Search The Data & Methods
 
-Below is where we can put some links to both the data and the analysis code as buttons:
-
-```
-<div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
-</div>
-```
-
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/lekhapanati8/lekhapanati8.github.io/blob/9e5aafe1c8256ee00da83c01f158ee2bdc66521d/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
