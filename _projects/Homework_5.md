@@ -1,7 +1,7 @@
 ---
 name: Homework 5
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/UFO_Header-1.jpg
 description: This is a "showcase" project that uses vega-lite for interactive viz!
 custom_js:
   - vega.min
