@@ -2,7 +2,7 @@
 name: Homework 5
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/UFO_Header-1.jpg
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+description: This is Lekha's submission for Homework 5. Altair was used with the UFO dataset to analyze the temporal patterns in UFO sighting reports. 
 custom_js:
   - vega.min
   - vega-lite.min
