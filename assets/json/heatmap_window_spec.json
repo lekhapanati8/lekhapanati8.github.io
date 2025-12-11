@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Avatar Locations \u00d7 Episodes Heatmap with Episode Window Slider",
+  "data": {
+    "url": "heatmap_data.json"
+  },
+  "params": [
+    {
+      "name": "window_start",
+      "value": 1,
+      "bind": {
+        "input": "range",
+        "min": 1,
+        "max": 60,
+        "step": 1
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "datum.episode_idx >= window_start && datum.episode_idx < window_start + 10"
+    }
+  ],
+  "width": 900,
+  "height": 600,
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "field": "episode_idx",
+      "type": "ordinal",
+      "title": "Episode"
+    },
+    "y": {
+      "field": "places_in_line",
+      "type": "ordinal",
+      "title": "Location"
+    },
+    "color": {
+      "field": "mention_count",
+      "type": "quantitative",
+      "title": "Mentions",
+      "scale": {
+        "range": [
+          "#F9EFE3",
+          "#F4C135",
+          "#EE7223",
+          "#6E1700"
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "places_in_line",
+        "type": "nominal",
+        "title": "Location"
+      },
+      {
+        "field": "episode_idx",
+        "type": "ordinal",
+        "title": "Episode"
+      },
+      {
+        "field": "mention_count",
+        "type": "quantitative",
+        "title": "Mentions"
+      }
+    ]
+  }
+}
