@@ -1,0 +1,682 @@
+[
+  {
+    "places_in_line": "Southern Water Tribe",
+    "episode_idx": 1,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Hog monkeys",
+    "episode_idx": 2,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Hopping llamas",
+    "episode_idx": 2,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Southern Water Tribe",
+    "episode_idx": 2,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Patola Mountain Range",
+    "episode_idx": 3,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Southern Air Temple",
+    "episode_idx": 3,
+    "mention_count": 8
+  },
+  {
+    "places_in_line": "Elephant koi",
+    "episode_idx": 4,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Kyoshi Island",
+    "episode_idx": 4,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 5,
+    "mention_count": 9
+  },
+  {
+    "places_in_line": "Mining village",
+    "episode_idx": 6,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 7,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Senlin Village",
+    "episode_idx": 7,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Crescent Island",
+    "episode_idx": 8,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Senlin Village",
+    "episode_idx": 8,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Hog monkeys",
+    "episode_idx": 9,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 9,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Hog monkeys",
+    "episode_idx": 10,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 11,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Great Divide",
+    "episode_idx": 11,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Eastern Air Temple",
+    "episode_idx": 12,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 13,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Abbey",
+    "episode_idx": 14,
+    "mention_count": 18
+  },
+  {
+    "places_in_line": "Makapu Village",
+    "episode_idx": 14,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Southern Water Tribe",
+    "episode_idx": 14,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Northern Air Temple",
+    "episode_idx": 15,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Southern Air Temple",
+    "episode_idx": 15,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Northern Water Tribe",
+    "episode_idx": 16,
+    "mention_count": 10
+  },
+  {
+    "places_in_line": "Pohuai Stronghold",
+    "episode_idx": 16,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Southern Water Tribe",
+    "episode_idx": 16,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 17,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Northern Water Tribe",
+    "episode_idx": 17,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Northern Water Tribe",
+    "episode_idx": 18,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Fire Nation Capital",
+    "episode_idx": 19,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 19,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Southern Air Temple",
+    "episode_idx": 19,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 20,
+    "mention_count": 7
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 21,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 21,
+    "mention_count": 24
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 22,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Foggy Swamp",
+    "episode_idx": 22,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 23,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Chin Village",
+    "episode_idx": 23,
+    "mention_count": 8
+  },
+  {
+    "places_in_line": "Kyoshi Island",
+    "episode_idx": 23,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Gaoling",
+    "episode_idx": 24,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 25,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 26,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Tu Zin",
+    "episode_idx": 26,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 27,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Foggy Swamp",
+    "episode_idx": 27,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Misty Palms Oasis",
+    "episode_idx": 27,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Si Wong Desert",
+    "episode_idx": 27,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Wan Shi Tong's Library",
+    "episode_idx": 27,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 28,
+    "mention_count": 7
+  },
+  {
+    "places_in_line": "Misty Palms Oasis",
+    "episode_idx": 28,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 29,
+    "mention_count": 14
+  },
+  {
+    "places_in_line": "Full Moon Bay",
+    "episode_idx": 29,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Outer wall of Ba Sing Se",
+    "episode_idx": 29,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Serpent's Pass",
+    "episode_idx": 29,
+    "mention_count": 9
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 30,
+    "mention_count": 8
+  },
+  {
+    "places_in_line": "Outer wall of Ba Sing Se",
+    "episode_idx": 30,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 31,
+    "mention_count": 16
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 32,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Hog monkeys",
+    "episode_idx": 32,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 33,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Eastern Air Temple",
+    "episode_idx": 33,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Serpent's Pass",
+    "episode_idx": 33,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 34,
+    "mention_count": 6
+  },
+  {
+    "places_in_line": "Lake Laogai",
+    "episode_idx": 34,
+    "mention_count": 8
+  },
+  {
+    "places_in_line": "Whaletail Island",
+    "episode_idx": 34,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 35,
+    "mention_count": 7
+  },
+  {
+    "places_in_line": "Chameleon Bay",
+    "episode_idx": 35,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Eastern Air Temple",
+    "episode_idx": 35,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Lake Laogai",
+    "episode_idx": 35,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 36,
+    "mention_count": 8
+  },
+  {
+    "places_in_line": "Eastern Air Temple",
+    "episode_idx": 36,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 37,
+    "mention_count": 6
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 38,
+    "mention_count": 8
+  },
+  {
+    "places_in_line": "Chameleon Bay",
+    "episode_idx": 38,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Crescent Island",
+    "episode_idx": 38,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ember Island",
+    "episode_idx": 38,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Fire Nation Capital",
+    "episode_idx": 38,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Serpent's Pass",
+    "episode_idx": 38,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 39,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Fire Nation Royal Palace",
+    "episode_idx": 39,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Jang Hui",
+    "episode_idx": 40,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Southern Water Tribe",
+    "episode_idx": 41,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ember Island",
+    "episode_idx": 42,
+    "mention_count": 10
+  },
+  {
+    "places_in_line": "Secluded hot springs",
+    "episode_idx": 42,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Northern Water Tribe",
+    "episode_idx": 43,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Roku's island",
+    "episode_idx": 43,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Southern Air Temple",
+    "episode_idx": 43,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Fire Fountain City",
+    "episode_idx": 44,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Hama's village",
+    "episode_idx": 45,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Southern Water Tribe",
+    "episode_idx": 45,
+    "mention_count": 5
+  },
+  {
+    "places_in_line": "Black Cliffs",
+    "episode_idx": 46,
+    "mention_count": 5
+  },
+  {
+    "places_in_line": "Fire Nation Royal Palace",
+    "episode_idx": 46,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 47,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Black Cliffs",
+    "episode_idx": 47,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Fire Nation Capital",
+    "episode_idx": 47,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Foggy Swamp",
+    "episode_idx": 47,
+    "mention_count": 4
+  },
+  {
+    "places_in_line": "Great Gates of Azulon",
+    "episode_idx": 47,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Southern Air Temple",
+    "episode_idx": 47,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 48,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Fire Nation Royal Palace",
+    "episode_idx": 48,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Foggy Swamp",
+    "episode_idx": 48,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Western Air Temple",
+    "episode_idx": 48,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 49,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Kyoshi Island",
+    "episode_idx": 49,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Northern Air Temple",
+    "episode_idx": 49,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Western Air Temple",
+    "episode_idx": 49,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Western Air Temple",
+    "episode_idx": 50,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Boiling Rock",
+    "episode_idx": 51,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Western Air Temple",
+    "episode_idx": 51,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Boiling Rock",
+    "episode_idx": 52,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Western Air Temple",
+    "episode_idx": 52,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 53,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Southern Water Tribe",
+    "episode_idx": 53,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Western Air Temple",
+    "episode_idx": 53,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Whaletail Island",
+    "episode_idx": 53,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 54,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ember Island",
+    "episode_idx": 54,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Great Divide",
+    "episode_idx": 54,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Northern Water Tribe",
+    "episode_idx": 54,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 54,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Southern Air Temple",
+    "episode_idx": 54,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 55,
+    "mention_count": 5
+  },
+  {
+    "places_in_line": "Ember Island",
+    "episode_idx": 55,
+    "mention_count": 2
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 56,
+    "mention_count": 5
+  },
+  {
+    "places_in_line": "Northern Water Tribe",
+    "episode_idx": 56,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Omashu",
+    "episode_idx": 56,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Outer wall of Ba Sing Se",
+    "episode_idx": 56,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 57,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Fire Nation Royal Palace",
+    "episode_idx": 57,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Ba Sing Se",
+    "episode_idx": 58,
+    "mention_count": 3
+  },
+  {
+    "places_in_line": "Fire Nation Royal Palace",
+    "episode_idx": 58,
+    "mention_count": 1
+  },
+  {
+    "places_in_line": "Foggy Swamp",
+    "episode_idx": 58,
+    "mention_count": 2
+  }
+]
