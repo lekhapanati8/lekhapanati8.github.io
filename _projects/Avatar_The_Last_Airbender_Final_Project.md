@@ -14,4 +14,12 @@ custom_js:
 
 ### Created by Lekha Panati
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/heatmap_data.json" style="width: 100%"></vegachart>
+<vegachart
+    schema-url="{{ site.baseurl }}/assets/json/heatmap_static_spec.json"
+    style="width: 100%">
+</vegachart>
+
+<vegachart
+    schema-url="{{ site.baseurl }}/assets/json/heatmap_window_spec.json"
+    style="width: 100%">
+</vegachart>
