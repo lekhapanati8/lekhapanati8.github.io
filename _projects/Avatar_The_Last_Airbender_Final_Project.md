@@ -19,6 +19,8 @@ custom_js:
     style="width: 100%">
 </vegachart>
 
+![Avatar World Map](https://github.com/lekhapanati8/lekhapanati8.github.io/blob/master/assets/pngs/avatarmapfinal.png?raw=true)
+
 <vegachart
     schema-url="{{ site.baseurl }}/assets/json/avatarbarfinal.json"
     style="width: 100%">
