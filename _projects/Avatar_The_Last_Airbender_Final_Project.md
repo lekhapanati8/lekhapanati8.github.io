@@ -19,12 +19,18 @@ custom_js:
     style="width: 100%">
 </vegachart>
 
-![Avatar World Map](https://github.com/lekhapanati8/lekhapanati8.github.io/blob/master/assets/pngs/avatarmapfinal.png?raw=true)
+
+## Contextual Visualizations
+
+
+![Avatar World Map](https://github.com/lekhapanati8/lekhapanati8.github.io/blob/e8d11be29b22815662f11973a31378f203e94e55/assets/pngs/avatarmapfinal.png)
 
 <vegachart
     schema-url="{{ site.baseurl }}/assets/json/avatarbarfinal.json"
     style="width: 100%">
 </vegachart>
+
+
 
 My primary visualization is a heatmap showing how often major locations are mentioned across the episodes of _Avatar: The Last Airbender_. Each row represents a different place in the Avatar world, such as the Southern Water Tribe, Omashu, or Ba Sing Se, and each column represents an episode. The color of each cell indicates how frequently that location is mentioned. Darker shades highlight episodes where a place plays an important narrative role, while lighter shades show moments where it is not discussed as much. This heatmap helps viewers quickly see how the story moves from one region to another throughout the series, revealing patterns such as early activity around the Southern Air Temple or sustained attention on Ba Sing Se during major plot arcs.
 
