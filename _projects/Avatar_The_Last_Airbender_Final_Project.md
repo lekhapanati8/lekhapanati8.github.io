@@ -1,9 +1,13 @@
 ---
 name: Journeying through the world of Avatar The Last Airbender
-tools: [Ignore me]
+tools: [Python, HTML, vega-lite]
 image: https://www.insidehook.com/wp-content/uploads/2024/05/avatar.jpg?fit=1200%2C800
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+description: This is Lekha's submission for FP 3.1.
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 
 # Journeying through the world of Avatar: The Last Airbender
