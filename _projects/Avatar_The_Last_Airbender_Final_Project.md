@@ -27,7 +27,7 @@ My primary visualization is a heatmap showing how often major locations are ment
 ## Contextual Visualizations
 
 
-![Avatar World Map](https://github.com/lekhapanati8/lekhapanati8.github.io/blob/e8d11be29b22815662f11973a31378f203e94e55/assets/pngs/avatarmapfinal.png?raw=true)
+![Map](https://imgur.com/qdQv0Is)
 
 <vegachart
     schema-url="{{ site.baseurl }}/assets/json/avatarbarfinal.json"
