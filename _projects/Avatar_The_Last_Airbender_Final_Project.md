@@ -28,8 +28,6 @@ My primary visualization is a heatmap showing how often major locations are ment
 
 ![Map](https://raw.githubusercontent.com/lekhapanati8/lekhapanati8.github.io/refs/heads/master/assets/pngs/avatarmapfinal.png)
 
-<img src="https://raw.githubusercontent.com/lekhapanati8/lekhapanati8.github.io/refs/heads/master/assets/pngs/avatarmapfinal.png" alt="avatar world map" width="1000" />
-
 <vegachart
     schema-url="{{ site.baseurl }}/assets/json/avatarbarfinal.json"
     style="width: 100%">
