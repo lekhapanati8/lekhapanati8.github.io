@@ -42,3 +42,9 @@ Our second contextual visualization is a bar chart showing the bending arts that
 Together, these three visualizations give a clear overview of how the world, characters, and themes evolve throughout the series. They allow viewers new to data analysis to explore the show’s structure through both geographic and narrative lenses.
 
 **I created all visualizations, including contextual :)**
+
+## Resources
+
+- [Avatar.csv dataset](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-08-11/avatar.csv)
+- [Avatar_map.json source code](https://avatar.fandom.com/wiki/Map:Avatar_world_map?action=edit)
+- [My Python notebook](https://github.com/lekhapanati8/lekhapanati8.github.io/blob/e9599199c1373339f7ccd290bcbd4e4fdd65dbf0/python_notebooks/IS445Final.ipynb)
