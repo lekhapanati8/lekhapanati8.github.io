@@ -1,7 +1,7 @@
 ---
-name: Dummy Project
+name: Journeying through the world of Avatar The Last Airbender
 tools: [Ignore me]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
+image: https://www.insidehook.com/wp-content/uploads/2024/05/avatar.jpg?fit=1200%2C800
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 external_url: https://www.google.com
 ---
